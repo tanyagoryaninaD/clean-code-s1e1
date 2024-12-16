@@ -152,7 +152,7 @@ input, button{
 
 /* Completed */
 
-#task_completed .task__label {
+#task__list_completed .task__label {
   text-decoration: line-through;
   color: #888;
 }
